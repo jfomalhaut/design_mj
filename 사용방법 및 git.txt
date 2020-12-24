@@ -1,0 +1,20 @@
+1. VSCode 설치 (구글에서 vsocde 검색 후 설치)
+2. github 설치 (git-scm.com)
+3. 깃에 올려져있는 내용을 내 컴퓨터에 가져오는 방법
+$ git clone https://github.com/jfomalhaut/design_mj.git
+
+올리는 방법
+0. 먼저 pull
+$ git pull
+
+1. 파일 등록
+$ git add . 
+
+2. commit을 한다.
+$ git commit -m "message"
+
+3. 업로드
+$ git push
+
+받는 방법
+$ git pull
